@@ -4,7 +4,7 @@
 require 'pry'
 
 def meal_choice(meal="meat")
-  meal_choice
+  meal 
   binding.pry
 end
 
