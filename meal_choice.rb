@@ -5,4 +5,4 @@ def meal_choice(meal="meat")
   meal 
 end
 
-puts "My meal is #(meal_choice("soup")
+puts "My meal is #{meal_choice("soup")}""
